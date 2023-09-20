@@ -5,6 +5,7 @@ using namespace std;
 
 class Point{
     private:
+        double z;
         double x; // Tọa độ x
         double y; // Tọa độ y
     public:
